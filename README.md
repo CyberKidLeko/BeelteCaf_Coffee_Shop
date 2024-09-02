@@ -1,4 +1,4 @@
-Beetle Café Order System
+#Beetle Café Order System
 Overview
 The Beetle Café Order System is a Windows Forms application designed for managing orders in a café. The application allows users to view and select items from a menu, add them to a cart, and place an order. It connects to a SQL Server database to retrieve menu items and handle user interactions.
 
